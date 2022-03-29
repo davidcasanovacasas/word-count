@@ -17,4 +17,3 @@ We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 
 DOI release v0.1:
 - https://sandbox.zenodo.org/badge/latestdoi/475347240
-- https://sandbox.zenodo.org/badge/475347240.svg
